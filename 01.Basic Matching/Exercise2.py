@@ -1,3 +1,8 @@
+""" Bot or Not?
+In this exercise you have to check if tweet are from bot or not 
+and that's by check if "@bot" is found on the tweet
+"""
+
 # Import the necessary library
 import re
 
