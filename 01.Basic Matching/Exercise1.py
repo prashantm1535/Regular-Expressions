@@ -1,3 +1,8 @@
+""" Finding Specific Word :
+To locate the character or word you're searching for, just type it directly, much like a regular search. 
+For instance, if you're looking for the word curious in the text, enter it exactly as is.
+Note: Always use raw string! """
+
 # Import the necessary library
 import re
 
