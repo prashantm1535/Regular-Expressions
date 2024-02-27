@@ -1,0 +1,51 @@
+What is PIP ?
+ 
+	pip is hte package manager for Python.
+	Using pip we can install python packages.
+	packages like numpy,pandas,django,flask etc.,
+	
+	
+	
+How to Install pip?
+
+pip is distributed with python which means that when you download Python from 
+" https://www.python.org/", you automatically get pip installed on your computer.
+
+This is a Python script that uses some bootstrapping logic to install pip.
+
+Download the script, from " https://bootstrap.pypa.io/get-pip.py. "
+
+Open a terminal/command prompt, cd to the folder containing the get-pip.py file and run:
+
+	command : C:> py get-pip.py
+
+
+
+Check if pip is already installed or not :
+
+	command : pip --version
+	
+update pip : 
+
+	command : python -m pip install --upgrade pip
+	
+	
+How to get help : 
+	command : pip help (list of pip commands and their functions.)
+	
+How to install Packages :
+	
+	command : pip install camelcase
+	
+How to Use Packages : 
+		syntax : import camelcase
+		
+How to uninstall Packages :
+	
+	command : pip uninstall camelcase
+	
+To list installed packages :
+	command : pip list
+
+To take a note of available packages to virtual environment : 
+	command : pip freeze > requirements.txt ( "requirements.txt" is file name with extension )

@@ -1,0 +1,20 @@
+What is Regular Expression (Regex)?
+Why Regular Expression?
+Types of pattern can be matched.
+
+1. Literal Characters
+2. Character Classed
+3. Anchors
+4. Quantifiers
+5. Alternation
+
+
+
+
+Tips to succeed this course : 
+	* Pay attention to pace.
+	* Practice, Practice, Practice
+	* Test your knowledge.
+	* Ask for help.
+	* Be Persistent.
+	* Apply What you learn.

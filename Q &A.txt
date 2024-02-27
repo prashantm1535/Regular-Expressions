@@ -1,0 +1,17 @@
+Q 1: What module needs to be imported in Python to work with regular expressions?
+A :  "re"
+
+Q 2: Which function serves the crucial role of searching for matches in regular expressions?
+A :  re.search()
+
+Q 3: What does the r before a pattern string in regular expressions indicate?
+A : Raw string
+
+Q 4: What does the dot metacharacter (.) represent in regular expressions?
+A : Matches any single character except newline.
+
+Q 5: How can you make a regular expression search case-insensitive in Python?
+A : re.IGNORECASE Option.
+
+Q 6: Which pattern can be used to match  "beet" , "belt" "best" using a single regular expression?
+A : be.t
